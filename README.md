@@ -54,8 +54,7 @@ Built a multi-role web app from scratch — good exercise in thinking about syst
 | Category | Skills |
 |---|---|
 | **Languages** | Python, SQL |
-| **Strong With** | Pandas, NumPy, Scikit-learn, LightGBM, Feature Engineering, EDA |
-| **ML & Analytics** | Classification, NLP, KPI Analysis, Model Evaluation, Class Imbalance Handling |
+| **Strong With** | Pandas, NumPy, Scikit-learn, LightGBM, Feature Engineering, EDA, Data Visualization |
 | **Backend & APIs** | Flask, REST APIs, Celery, Redis |
 | **Frontend** | Vue.js |
 | **Tools** | Git, Linux, VS Code, Google Colab |
