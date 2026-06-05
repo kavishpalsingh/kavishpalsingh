@@ -19,7 +19,7 @@ One decision that ended up mattering: instead of dropping the 73% missing demogr
 
 - Classified **198K noisy comments** with a severe **21:1 class imbalance**
 - Engineered a 75K-feature TF-IDF matrix with character-level representations
-- Achieved **Top 5% on Kaggle** · **Macro F1: 0.8344**
+- Achieved **Top 5% Ranking on Kaggle Competition Leaderboard** · **Macro F1: 0.8344**
 - Awarded **96/100 (S Grade)** at IIT Madras
 
 ---
