@@ -18,13 +18,13 @@ Currently exploring Deep Learning and applied AI. Still learning a lot — and t
 One decision that ended up mattering: instead of dropping the 73% missing demographic values, I kept them as a signal — the missingness itself carried information about class behaviour.
 
 - Classified **198K noisy comments** with a severe **21:1 class imbalance**
-- Engineered a 75K-feature TF-IDF matrix with character-level representations
+- Engineered a 125K-feature TF-IDF matrix with character-level representations
 - Achieved **Top 5% Ranking on Kaggle Competition Leaderboard** · **Macro F1: 0.8344**
 - Awarded **96/100 (S Grade)** at IIT Madras
 
 ---
 
-### [Revenue Strategy & Market Analysis — Global Freight Forwarding MNC](https://github.com/kavishpalsingh/BDM-Capstone-Project)
+### [B2B Revenue Optimization — Global Freight Forwarding MNC](https://github.com/kavishpalsingh/BDM-Capstone-Project)
 **Excel · KPI Modelling · Business Analytics**
 
 Six-month capstone on real transaction data from a Top-50 global freight forwarder. Spent most of the first month just making the data usable — ~30% of records were misclassified or uncategorised.
