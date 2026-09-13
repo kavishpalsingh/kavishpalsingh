@@ -6,7 +6,6 @@
 
 Third-year student who enjoys working with data end-to-end — from cleaning messy real-world datasets to building models and figuring out what the numbers actually mean. I like experimenting, questioning assumptions, and understanding *why* something works rather than just getting it to work.
 
-Currently exploring Deep Learning and applied AI. Still learning a lot — and that's the part I enjoy most.
 
 ---
 
@@ -25,7 +24,7 @@ One decision that ended up mattering: instead of dropping the 73% missing demogr
 ---
 
 ### [B2B Revenue Optimization — Global Freight Forwarding MNC](https://github.com/kavishpalsingh/BDM-Capstone-Project)
-**Excel · KPI Modelling · Business Analytics**
+**Feature Engineering · KPI Modelling · Business Analytics**
 
 Six-month capstone on real transaction data from a Top-50 global freight forwarder. Spent most of the first month just making the data usable — ~30% of records were misclassified or uncategorised.
 
