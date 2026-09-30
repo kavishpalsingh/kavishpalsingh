@@ -2,7 +2,7 @@
 
 # Kavish Pal Singh
 
-**B.S. Data Science & Applications · IIT Madras · CGPA 9.36/10**
+**B.S. Data Science & Applications · IIT Madras · CGPA 9.40/10**
 
 Third-year student who enjoys working with data end-to-end — from cleaning messy real-world datasets to building models and figuring out what the numbers actually mean. I like experimenting, questioning assumptions, and understanding *why* something works rather than just getting it to work.
 
